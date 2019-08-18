@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
     @BindView(R.id.btnActRadio)
     Button btnActRadio;
+
     @BindView(R.id.btnActDatePicker)
     Button btnActDatePicker;
     @BindView(R.id.btnActEmailValidation)
